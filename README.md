@@ -20,6 +20,10 @@
 
 `$ gcloud compute instances delete my-instance2`
 
+* check type machine 
+
+`$gcloud compute machine-types list`
+
 * create instance with basics attributes 
 
 `$ gcloud compute instances create 'instance-2'
