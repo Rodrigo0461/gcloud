@@ -19,3 +19,10 @@
 * delete instance 
 
 `$ gcloud compute instances delete my-instance2`
+
+* create instance with basics attributes 
+
+`$gcloud compute instances create 'instance-2' \
+--machine-type "n1-standard-1" --image-project "debian-cloud" \
+--image "debian-9-stretch-v20170918" --subnet "default" `
+
