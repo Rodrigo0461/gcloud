@@ -1,5 +1,10 @@
 # Basics Commands useful GCloud
 
+* To see what your default region and zone settings are
+
+`$ gcloud config list`
+
+
 * regions available list
 
 `$ gcloud compute regions list`
