@@ -1,9 +1,12 @@
 # Basics Commands useful GCloud
 
-* To see what your default region and zone settings are
+*To see what your default region and zone settings are
 
 `$ gcloud config list`
 
+*Change of project 
+
+`$ gcloud config set project <name-project>`
 
 * regions available list
 
