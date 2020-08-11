@@ -1,5 +1,11 @@
 # Basics Commands useful GCloud
 
+* To set the active account, run
+
+`$ gcloud config set account`
+
+`$ gcloud auth list`
+
 *To see what your default region and zone settings are
 
 `$ gcloud config list`
