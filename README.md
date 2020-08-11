@@ -1,6 +1,6 @@
 # Basics Commands useful GCloud
 
-* To set the active account, run
+*To set the active account, run:
 
 `$ gcloud config set account`
 
